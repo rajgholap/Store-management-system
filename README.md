@@ -1,4 +1,4 @@
-⚫ STORE BILLING SYSTEM
+⚫ STORE MANAGEMENT SYSTEM
 
    Python Tkinter for GUI(Frontend) and Mysql for database(Backend) 
 
